@@ -1,0 +1,19 @@
+body {
+	margin-top:10%;
+	font-family:parastoo;
+	background-color:black;
+	color:white;
+        cursor: default;
+}   
+#text {
+	font-size:300%;
+	line-height:.5;
+}   
+#text span {
+}   
+	#text span:hover {
+	color: black;
+	background-color:white;
+}   
+
+

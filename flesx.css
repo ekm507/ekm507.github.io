@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(img/banner2.webp);
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(img/3197809.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -44,7 +44,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url('img/ava.jpg') no-repeat;
+    background: url('img/tega.png') no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
