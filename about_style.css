@@ -1,7 +1,12 @@
 body {
 	margin-top:10%;
-	font-family:parastoo;
-	background-color:black;
+	font-family:Vazir Code;
+	/* background-color:black; */
+	background-image: url("img/banner2.webp");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
 	color:white;
         cursor: default;
 }   
